@@ -1,5 +1,9 @@
-git clone https://github.com/koshicae/pythonProject1.git - Clone a repository into a new directory (Клонировать репозиторий в новую папку)
-git add * -
+git clone https://github.com/koshicae/pythonProject1.git
+=> Clone a repository into a new directory.
+(Клонировать репозиторий в новую папку.)
+git add *
+=> Add file contents to the index. Fileglobs (*) can be given to add all matching files.
+(Добавить контент файла в индекс. Файловые глобусы[?] (*) могут быть даны чтобы добавить к соответствующим файлам)
 git rn cashed -
 git status -
 git config --global -
